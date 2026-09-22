@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BFMTrainer.Core/BFMTrainer.Core.csproj" />
+    <Project Path="src/BFMTrainer.Headless/BFMTrainer.Headless.csproj" />
+    <Project Path="src/BFMTrainer.JSBSim/BFMTrainer.JSBSim.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BFMTrainer.Core.Tests/BFMTrainer.Core.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,12 @@
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\bin\Debug\net10.0\BFMTrainer.Core.deps.json
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\bin\Debug\net10.0\BFMTrainer.Core.dll
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\bin\Debug\net10.0\BFMTrainer.Core.pdb
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.AssemblyInfoInputs.cache
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.AssemblyInfo.cs
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.csproj.CoreCompileInputs.cache
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.sourcelink.json
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.dll
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\refint\BFMTrainer.Core.dll
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\BFMTrainer.Core.pdb
+C:\Users\parka\Desktop\BFMTrainer\src\BFMTrainer.Core\obj\Debug\net10.0\ref\BFMTrainer.Core.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BFMTrainer.Headless/1.0.0": {
+        "dependencies": {
+          "BFMTrainer.Core": "1.0.0"
+        },
+        "runtime": {
+          "BFMTrainer.Headless.dll": {}
+        }
+      },
+      "BFMTrainer.Core/1.0.0": {
+        "runtime": {
+          "BFMTrainer.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BFMTrainer.Headless/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BFMTrainer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
